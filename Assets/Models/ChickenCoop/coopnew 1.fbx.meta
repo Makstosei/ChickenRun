@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: a4ad6bd6525347942b7c3abf853156b6
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 3004981179215038677
+    second: chicken coopnew|chicken coop.001Action
+  - first:
+      74: -2050344087074812560
+    second: chicken coopnew|chicken coop|chicken coop|animchickroof|chicken coop|animchickr
+  - first:
+      74: -4327306893217684285
+    second: chicken coopnew|chicken coop|chicken coop|chicken coop.001Action|chicken
+      coop|c
+  - first:
+      74: 711342252108043149
+    second: chicken coopnew|chicken coop|chicken coop|chicken coopAction|chicken
+      coop|chick
+  - first:
+      74: 7700852616862248761
+    second: chicken coopnew|roofActionnjew
+  - first:
+      74: -5416937509037446316
+    second: chicken coopnew|roof|roof|animchickroof|roof|animchickroof
+  - first:
+      74: 2274111730323331682
+    second: chicken coopnew|roof|roof|chicken coop.001Action|roof|chicken coop.001Action
+  - first:
+      74: -2005798856454190947
+    second: chicken coopnew|roof|roof|chicken coopAction|roof|chicken coopAction
+  - first:
+      74: -8852567878608981161
+    second: coop roof|chicken coop.001Action
+  - first:
+      74: -5782718598575262199
+    second: coop roof|chicken coop|chicken coop|animchickroof|chicken coop|animchickr
+  - first:
+      74: 4165135572527242867
+    second: coop roof|chicken coop|chicken coop|chicken coop.001Action|chicken coop|c
+  - first:
+      74: 8886533053452737118
+    second: coop roof|chicken coop|chicken coop|chicken coopAction|chicken coop|chick
+  - first:
+      74: 4428886789844327673
+    second: Roof
+  - first:
+      74: -2593063144615654019
+    second: coop roof|roof|roof|animchickroof|roof|animchickroof
+  - first:
+      74: 7364553603915314738
+    second: coop roof|roof|roof|chicken coop.001Action|roof|chicken coop.001Action
+  - first:
+      74: 2101389548784147334
+    second: coop roof|roof|roof|chicken coopAction|roof|chicken coopAction
+  - first:
+      74: 307375315356059648
+    second: Door
+  - first:
+      74: -4670136681244356838
+    second: chicken coopdoor|chicken coop|chicken coop|animchickroof|chicken coop|animchickr
+  - first:
+      74: -5639430107472609668
+    second: chicken coopdoor|chicken coop|chicken coop|chicken coop.001Action|chicken
+      coop|c
+  - first:
+      74: 241899125823712055
+    second: chicken coopdoor|chicken coop|chicken coop|chicken coopAction|chicken
+      coop|chick
+  - first:
+      74: 6612790637774733908
+    second: chicken coopdoor|roofActionnjew
+  - first:
+      74: 1088540188207837937
+    second: chicken coopdoor|roof|roof|animchickroof|roof|animchickroof
+  - first:
+      74: 7622301352628748437
+    second: chicken coopdoor|roof|roof|chicken coop.001Action|roof|chicken coop.001Action
+  - first:
+      74: -4485893810670136603
+    second: chicken coopdoor|roof|roof|chicken coopAction|roof|chicken coopAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Roof
+      takeName: coop roof|roofActionnjew
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door
+      takeName: chicken coopdoor|chicken coop.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
